@@ -11,7 +11,7 @@
 -  any side projects i could possible help out
 -  
 - 📫 How to reach me
-- domninic.knabe@gmail.com
+- 
 - 
 - ⚡ Fun fact:
 - from Melbourne-Australia, into salsa and bachata
