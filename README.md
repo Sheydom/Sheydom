@@ -3,7 +3,7 @@
 - 
 - 👀 I’m interested in
 - Web development and programming in general
-- 
+-  
 - 🌱 I’m currently learning
 - html css and javascript
 
