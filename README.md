@@ -53,8 +53,8 @@ architecture and full-stack application development.
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: dominic-knabe.com  
-💼 LinkedIn: [Your LinkedIn link]
+🌐 Portfolio: https://www.dominic-knabe.com  
+💼 LinkedIn: https://www.linkedin.com/in/dominic-knabe/
 
 ## ⚡ Outside of Code
 
