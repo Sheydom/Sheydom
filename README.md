@@ -41,7 +41,7 @@ Features include:
 Laravel-based web platform for online services, appointment bookings
 and payments.
 
-- Laravel + MySQL
+- Laravel
 - Stripe payment integration
 - Cal.com booking integration
 - Self-hosted deployment
