@@ -1,22 +1,61 @@
-- 👋 Hi,
-- I’m @Sheydom
-- 
-- 👀 I’m interested in
-- Web development and programming in general
--  
-- 🌱 I’m currently learning
-- html css and javascript
+# Hi, I'm Dominic 👋
 
-- 💞️ I’m looking to collaborate on
--  any side projects i could possible help out
--  
-- 📫 How to reach me
-- 
-- 
-- ⚡ Fun fact:
-- from Melbourne-Australia, into salsa and bachata
+Junior Full-Stack Developer based in Melbourne, Australia, with a background
+in engineering, technical troubleshooting and production leadership.
 
-<!---
-Sheydom/Sheydom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build and self-host web applications using Laravel, PHP, React, MySQL and Docker.
+
+## 🛠 Tech Stack
+
+**Backend**
+PHP · Laravel · Filament · REST APIs
+
+**Frontend**
+JavaScript · React · HTML · CSS · Tailwind CSS
+
+**Database**
+MySQL · SQL
+
+**Infrastructure**
+Docker · Linux · Caddy · Cloudflare · Nextcloud
+
+**Tools & Technologies**
+Git · GitHub · WebDAV · Grafana · Prometheus · Ollama · Python
+
+## 🚀 What I'm Working On
+
+### Migration Management Platform
+Full-stack migration case management application built with Laravel,
+Filament and React.
+
+Features include:
+- Client and application management
+- Secure client intake and document uploads
+- Automated Nextcloud folder management via WebDAV
+- Python-based passport OCR processing
+- Locally hosted AI assistant using Ollama
+- Laravel queues for background processing
+- Docker-based deployment on self-hosted Linux infrastructure
+
+### LatinaMilesAway
+Laravel-based web platform for online services, appointment bookings
+and payments.
+
+- Laravel + MySQL
+- Stripe payment integration
+- Cal.com booking integration
+- Self-hosted deployment
+
+## 🌱 Currently Learning
+
+Continuing to deepen my knowledge of React, TypeScript, Laravel
+architecture and full-stack application development.
+
+## 📫 Connect With Me
+
+🌐 Portfolio: dominic-knabe.com  
+💼 LinkedIn: [Your LinkedIn link]
+
+## ⚡ Outside of Code
+
+Engineering background · Self-hosting enthusiast · Salsa & Bachata
